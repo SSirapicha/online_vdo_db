@@ -1,4 +1,3 @@
-
 <?php
 $db_host = "us-cdbr-east-06.cleardb.net";
 $db_user = "b02c468b43712f";
