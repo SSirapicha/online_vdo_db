@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html>
 
@@ -555,3 +556,4 @@
         }
     </script>
 </body>
+?>
